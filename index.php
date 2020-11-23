@@ -1,3 +1,2 @@
-<?php 
-	echo 'hello';
-?>
+nguyen quoc cuong
+hello
